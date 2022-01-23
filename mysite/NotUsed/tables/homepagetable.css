@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+}
+table th {
+    text-align: center;
+    background-color: gray;
+    color: white;
+    padding: 4px 30px 4px 8px;
+}
+table td {
+    padding: 4px 8px;
+    border: 1px solid #e3e3e3;
+}
+table tr:nth-child(odd) td {
+    background-color: honeydew;
+}
+img {
+    padding: 4px 8px;
+}

@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+}
+
+h1, h2, h3, p {
+    color : #3EB489 ;
+}
+
+.p1 {
+    font-family: Times, serif, Arial;
+}
+
+.p2 {
+    font-family: Arial, 'Times New Roman', helvetica;
+}
+table {
+    border-collapse: collapse;
+}
+table th {
+    text-align: left;
+    background-color: green;
+    color: white;
+    padding: 4px 30px 4px 8px;
+}
+table td {
+    padding: 4px 8px;
+    border: 1px solid #e3e3e3;
+}
+table tr:nth-child(odd) td {
+    background-color: honeydew;
+}
